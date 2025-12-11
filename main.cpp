@@ -21,7 +21,7 @@ void fun(int a,int b)
 int main() {
     std::cout << "Hi" << std::endl;
     
-    fun(5,6);
+    fun(4,5);
     even(4);
     return 0;
 }

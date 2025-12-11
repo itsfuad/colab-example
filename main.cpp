@@ -19,7 +19,7 @@ void fun(int a,int b)
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hi" << std::endl;
     
     fun(5,6);
     even(4);
